@@ -1,6 +1,6 @@
 # grocery-retail-sales-analysis
 Overview:
-Retail analytics project using BigQuery and Tableau to analyze grocery sales records sourced from a public Kaggle dataset (2018 data).
+Retail analytics project using BigQuery and Tableau analyzing grocery sales records sourced from a public Kaggle dataset (2018 data).
 
 Tools:
 BigQuery
